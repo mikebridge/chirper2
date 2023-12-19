@@ -1,0 +1,11 @@
+In one terminal:
+
+```bash
+php artisan serve
+```
+
+In another:
+
+```bash
+npm run dev
+```
